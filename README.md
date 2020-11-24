@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working for a startup in NY developing digital therapeutic applications.
 - 🌱 I’m currently learning about front end development (React Native), CI/CD, testing (integration test, E2E test). My goal is to become a fullstack engineer.
 - 👯 I’m looking to collaborate on mobile application development.
-- ⚡ Fun fact: I have lived in 2 different countries outside of my home country (VN) for an extended amount time 😄 I also worked in investment-related role for 2+ yrs before switching over to tech.
+- ⚡ Fun fact: I have lived in 2 different countries outside of my home country (VN) for an extended amount time 😄  I also worked in investment-related role for 2+ yrs before switching over to tech.
 
 ### _"I have no special talent. I am only passionately curious."_
